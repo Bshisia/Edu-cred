@@ -1,0 +1,18 @@
+[
+ {
+  "id": 1,
+  "name": "dan",
+  "regno": "1111",
+  "course": "Specs",
+  "created_at": "2024-07-30 02:38:40.889795996 +0300 EAT m=+195.956434437",
+  "status": "Completed"
+ },
+ {
+  "id": 2,
+  "name": "denil",
+  "regno": "007",
+  "course": "ugali",
+  "created_at": "2024-07-30 02:46:50.062710127 +0300 EAT m=+685.129348542",
+  "status": "Completed"
+ }
+]
